@@ -1,5 +1,5 @@
 """
-Objetivo: Desenvolver um código capaz de analisar dentro de um banco de dados .xlsx com 6 planilhas, algum vendendor
+Objetivo: Desenvolver um código capaz de analisar dentro de um banco de dados .xlsx com 6 planilhas, algum vendedor
 que realizou uma venda maior que 55.000 e enviar uma mensagem de texto para o telefone selecionado.
 """
 
